@@ -2,7 +2,7 @@
 ###  **Project Name: Quick-Cloths**
 ### **This is a simple Html,Css ,Bootstarp template.**
 ### Live:    https://shahreyar46.github.io/Quick-Cloths/
-### **Built With**
+### **Build With**
 
 - HTML5
 
